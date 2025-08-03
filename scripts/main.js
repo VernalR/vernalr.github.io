@@ -1,4 +1,5 @@
 document.querySelector("h1").textContent="hello world";
+
 let headImage = document.getElementById("headImage");
 headImage.onclick = function(){
     let miSrc =  headImage.getAttribute("src");
