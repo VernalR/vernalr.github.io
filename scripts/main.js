@@ -1,3 +1,3 @@
-document.querySelector("h1").textContent="hello world";
+document.querySelector("h1").textContent="srry";
 
 
