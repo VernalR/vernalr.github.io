@@ -2,20 +2,21 @@ html {
     font-size: 10px;
     font-family:
     "Open Sans", sans-serif;
-    background-color: lightblue;
+    background-color: rgb(73, 92, 99);
 }
 
 h1,
 p {
     text-align: center;
-    font-size: 16px;
+    font-size: 64px;
+    -webkit-text-fill-color: rgb(122, 69, 0);
 }
 img{
     display: block;
     margin: 0 auto;
 }
 section{
-    background-color: white;
+    background-color: rgb(191, 216, 250);
     padding: 20px;
     margin: 0 auto;
 }
